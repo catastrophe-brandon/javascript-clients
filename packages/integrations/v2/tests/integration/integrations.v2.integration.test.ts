@@ -4,7 +4,7 @@ import { describe, expect, test } from '@jest/globals';
 
 import { IntegrationsClient } from '../../api';
 import { EndpointResourceV2CreateEndpointParams } from '../../EndpointResourceV2CreateEndpoint';
-import { Endpoint, EndpointType, RequestSystemSubscriptionProperties } from '../../types';
+import { Endpoint, EndpointType } from '../../types';
 // import { EndpointResourceV2AddEventTypeToEndpointParams } from '../../EndpointResourceV2AddEventTypeToEndpoint';
 // import { EndpointResourceV2DeleteEventTypeFromEndpointParams } from '../../EndpointResourceV2DeleteEventTypeFromEndpoint';
 // import { EndpointResourceV2DeleteEndpointParams } from '../../EndpointResourceV2DeleteEndpoint';
